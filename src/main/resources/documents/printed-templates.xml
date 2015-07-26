@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<printed-templates>
+    <printed-template>
+        <uid>b1e918d7-3e80-4d36-a2dd-6e0b37501fa4</uid>
+        <name>Second template</name>
+        <title>Second template</title>
+        <prompt></prompt>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
+                    <name>First</name>
+                    <description>with comments</description>
+                </document>
+                <selected>true</selected>
+            </document-template>
+            <additional-info></additional-info>
+            <document-full-info>First (with comments)</document-full-info>
+        </printed-document-template>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
+                    <name>Second without comments</name>
+                    <description></description>
+                </document>
+                <selected>true</selected>
+            </document-template>
+            <additional-info></additional-info>
+            <document-full-info>Second without comments</document-full-info>
+        </printed-document-template>
+    </printed-template>
+    <printed-template>
+        <uid>c505aa50-0a4c-4990-bd3e-ef83d2853a28</uid>
+        <name>Second template 2</name>
+        <title>Second template</title>
+        <prompt>Я продолжаю рассказ об maven – инструменте, с помощью которого мы можем организовать унифицированное, не
+            зависящее от конкретной среды разработки (IDE) представление проекта java. В прошлых двух статьях я
+            пробежался по основным “вкусностям” maven: управление зависимостями проекта, способности maven загружать из
+            internet и сохранять в локальном репозитории артефакты.
+        </prompt>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
+                    <name>First</name>
+                    <description>with comments</description>
+                </document>
+                <selected>true</selected>
+            </document-template>
+            <additional-info>Я продолжаю рассказ об maven – инструменте, с помощью которого мы можем организовать
+                унифицированное, не зависящее от конкретной среды разработки (IDE) представление проекта java. В прошлых
+                двух статьях я пробежался по основным “вкусностям” maven: управление зависимостями проекта, способности
+                maven загружать из internet и сохранять в локальном репозитории артефакты.
+            </additional-info>
+            <document-full-info>First (with comments)</document-full-info>
+        </printed-document-template>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
+                    <name>Second without comments</name>
+                    <description></description>
+                </document>
+                <selected>true</selected>
+            </document-template>
+            <additional-info>Я продолжаю рассказ об maven – инструменте, с помощью которого мы можем организовать
+                унифицированное, не зависящее от конкретной среды разработки (IDE) представление проекта java. В прошлых
+                двух статьях я пробежался по основным “вкусностям” maven: управление зависимостями проекта, способности
+                maven загружать из internet и сохранять в локальном репозитории артефакты.
+            </additional-info>
+            <document-full-info>Second without comments</document-full-info>
+        </printed-document-template>
+    </printed-template>
+    <printed-template>
+        <uid>0e0d28a6-b20c-425e-a2ae-b40fd61c0b51</uid>
+        <name>First template 2</name>
+        <title>First template</title>
+        <prompt>The problem may be that you're using Mac OS X 10.6.7, but the download in the link is for Mac OS X 10.5.
+            I couldn't find a specific JVM upgdate for Mac OS X 10.6.*, so you may have to download a combo updater for
+            10.6 (as @Stefan mentions) and use Pacifist to extract the JVM updater. Unfortunately, I don't know which
+            10.6.* release will have the version you're seeking. You might want to sign up for the java-dev mailing list
+            at Apple Mailing Lists and ask there.
+        </prompt>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
+                    <name>First</name>
+                    <description>with comments</description>
+                </document>
+                <selected>true</selected>
+            </document-template>
+            <additional-info>I didn't see any for Mac OS X 10.6. For that, you would probably have to download the
+                updaters for each 10.6 release, and extract the JDK installer from the updater (using something like
+                Pacifist
+
+                Oh, and if you haven't already, try running /Applications/Utilities/Java Preferences.app, which lets you
+                change the default Java on your machine amongst the ones you have installed.
+            </additional-info>
+            <document-full-info>First (with comments)</document-full-info>
+        </printed-document-template>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
+                    <name>Second without comments</name>
+                    <description></description>
+                </document>
+                <selected>false</selected>
+            </document-template>
+            <additional-info></additional-info>
+            <document-full-info>Second without comments</document-full-info>
+        </printed-document-template>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid>
+                    <name>Third</name>
+                    <description>Third with comments</description>
+                </document>
+                <selected>true</selected>
+            </document-template>
+            <additional-info>I didn't see any for Mac OS X 10.6. For that, you would probably have to download the
+                updaters for each 10.6 release, and extract the JDK installer from the updater (using something like
+                Pacifist
+
+                Oh, and if you haven't already, try running /Applications/Utilities/Java Preferences.app, which lets you
+                change the default Java on your machine amongst the ones you have installed.
+            </additional-info>
+            <document-full-info>Third (Third with comments)</document-full-info>
+        </printed-document-template>
+    </printed-template>
+    <printed-template>
+        <uid>521649c5-a2fc-4ed5-84ad-ac66ebfb791e</uid>
+        <name>Second template 3</name>
+        <title>Second template</title>
+        <prompt></prompt>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
+                    <name>First</name>
+                    <description>with comments</description>
+                </document>
+                <selected>true</selected>
+            </document-template>
+            <additional-info></additional-info>
+            <document-full-info>First (with comments)</document-full-info>
+        </printed-document-template>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
+                    <name>Second without comments</name>
+                    <description></description>
+                </document>
+                <selected>true</selected>
+            </document-template>
+            <additional-info></additional-info>
+            <document-full-info>Second without comments</document-full-info>
+        </printed-document-template>
+        <printed-document-template>
+            <document-template>
+                <document>
+                    <uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid>
+                    <name>Third</name>
+                    <description>Third with comments</description>
+                </document>
+                <selected>false</selected>
+            </document-template>
+            <additional-info></additional-info>
+            <document-full-info>Third (Third with comments)</document-full-info>
+        </printed-document-template>
+    </printed-template>
+</printed-templates>

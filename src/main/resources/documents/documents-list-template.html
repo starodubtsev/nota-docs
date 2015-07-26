@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <!-- CSS goes in the document HEAD or added to your external stylesheet -->
+    <style type="text/css">
+
+        table.table-documents {
+            color: #333333;
+            border-width: 1px;
+            border-color: #666666;
+            border-collapse: collapse;
+        }
+
+        table.table-documents th.table-documents-th {
+            border-width: 1px;
+            padding: 8px;
+            border-style: solid;
+            border-color: #666666;
+            background-color: #dedede;
+            font-size: 11px;
+        }
+
+        table.table-documents td.table-documents-td {
+            border-width: 1px;
+            padding: 8px;
+            border-style: solid;
+            border-color: #666666;
+            background-color: #ffffff;
+            font-size: 10px;
+        }
+
+        #prompt {
+            font-size: 10px;
+        }
+
+        table.table-signature {
+            font-size: 10px;
+        }
+
+    </style>
+    <title><!--%TITLE%--></title>
+</head>
+<body>
+<h3><!--%TITLE%--></h3>
+<table class="table-documents" width="98%">
+    <thead>
+    <tr>
+        <th class="table-documents-th" width="49%">Документ</th>
+        <th class="table-documents-th" width="49%">Доп. информация</th>
+    </tr>
+    </th></tr>
+    </thead>
+    <!--%HTML_ROWS_CONTENT%-->
+</table>
+<div id="prompt">
+    <p><i><!--%PROMPT%--></i></p>
+</div>
+</br>
+</br>
+<div>
+    <table class="table-signature" width="98%">
+        <tr>
+            <td class="table-signature-td" width="30%"><!--%NOTARY-POSITION%--></td>
+            <td width="38%"></td>
+            <td class="table-signature-td" width="30%"><!--%NOTARY-NAME%--></td>
+        </tr>
+    </table>
+</div>
+</body>
+</html></END>

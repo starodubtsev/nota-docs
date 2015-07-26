@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<templates>
+    <templates>
+        <uid>9944e041-f4f7-4b74-9238-00befa94aa9c</uid>
+        <name>First template</name>
+        <document-template>
+            <document>
+                <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
+                <name>First</name>
+                <description>with comments</description>
+            </document>
+            <selected>true</selected>
+        </document-template>
+        <document-template>
+            <document>
+                <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
+                <name>Second without comments</name>
+                <description></description>
+            </document>
+            <selected>false</selected>
+        </document-template>
+        <document-template>
+            <document>
+                <uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid>
+                <name>Third</name>
+                <description>Third with comments</description>
+            </document>
+            <selected>true</selected>
+        </document-template>
+    </templates>
+    <templates>
+        <uid>05798d22-51cc-4495-bab7-260a913c185e</uid>
+        <name>Second template</name>
+        <document-template>
+            <document>
+                <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
+                <name>First</name>
+                <description>with comments</description>
+            </document>
+            <selected>true</selected>
+        </document-template>
+        <document-template>
+            <document>
+                <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
+                <name>Second without comments</name>
+                <description></description>
+            </document>
+            <selected>true</selected>
+        </document-template>
+        <document-template>
+            <document>
+                <uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid>
+                <name>Third</name>
+                <description>Third with comments</description>
+            </document>
+            <selected>false</selected>
+        </document-template>
+    </templates>
+</templates>

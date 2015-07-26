@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<documents>
+    <documents>
+        <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
+        <name>First</name>
+        <description>with comments</description>
+    </documents>
+    <documents>
+        <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
+        <name>Second without comments</name>
+        <description></description>
+    </documents>
+    <documents>
+        <uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid>
+        <name>Third</name>
+        <description>Third with comments</description>
+    </documents>
+</documents>

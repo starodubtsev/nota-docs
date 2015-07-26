@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308"
+            xmlns="http://javafx.com/javafx/8" fx:controller="org.romastar.notary.controller.TemplatesListController">
+    <children>
+        <ListView fx:id="listContent" layoutX="8.0" layoutY="14.0" AnchorPane.bottomAnchor="35.0"
+                  AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="5.0"/>
+        <HBox alignment="CENTER" layoutX="14.0" layoutY="360.0" spacing="5.0" AnchorPane.bottomAnchor="5.0"
+              AnchorPane.leftAnchor="5.0" AnchorPane.rightAnchor="5.0">
+            <children>
+                <Button fx:id="btnAddTemplate" layoutX="14.0" layoutY="251.0" mnemonicParsing="false" text="Добавить"/>
+                <Button fx:id="btnRemoveTemplate" layoutX="101.0" layoutY="251.0" mnemonicParsing="false"
+                        text="Удалить"/>
+                <Button fx:id="btnSaveTemplates" layoutX="180.0" layoutY="251.0" mnemonicParsing="false"
+                        text="Сохранить"/>
+                <Button fx:id="btnRevertTemplatesChanges" layoutX="279.0" layoutY="251.0" mnemonicParsing="false"
+                        text="Отменить"/>
+                <Button fx:id="btnPreview" minWidth="-Infinity" mnemonicParsing="false" text="Просмотр"/>
+            </children>
+        </HBox>
+    </children>
+</AnchorPane>

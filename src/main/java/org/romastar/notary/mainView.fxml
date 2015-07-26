@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<VBox xmlns:fx="http://javafx.com/fxml/1" prefHeight="670.0" prefWidth="900.0" spacing="10.0"
+      xmlns="http://javafx.com/javafx/8" fx:controller="org.romastar.notary.controller.AppController">
+    <children>
+        <HBox alignment="CENTER_LEFT">
+            <children>
+                <Label text="Печать">
+                    <font>
+                        <Font name="Arial Black" size="36.0" style="-fx-font-weight:bold"/>
+                    </font>
+                </Label>
+                <Label text="документов">
+                    <font>
+                        <Font name="Arial Narrow Italic" size="36.0"/>
+                    </font>
+                </Label>
+            </children>
+        </HBox>
+        <SplitPane dividerPositions="0.5" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308"
+                   VBox.vgrow="ALWAYS">
+            <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                    <children>
+                        <Accordion fx:id="accordion" minWidth="300" prefHeight="589.0" prefWidth="300"
+                                   AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                                   AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                            <panes>
+                                <TitledPane animated="false" text="Список документов">
+                                    <content>
+                                        <StackPane prefHeight="150.0" prefWidth="280.0"/>
+                                    </content>
+                                </TitledPane>
+                                <TitledPane animated="false" text="Шаблоны">
+                                    <content>
+                                        <StackPane prefHeight="150.0" prefWidth="280.0"/>
+                                    </content>
+                                </TitledPane>
+                                <TitledPane animated="false" text="Распечатанные шаблоны">
+                                    <content>
+                                        <StackPane prefHeight="150.0" prefWidth="280.0"/>
+                                    </content>
+                                </TitledPane>
+                            </panes>
+                        </Accordion>
+                    </children>
+                </AnchorPane>
+                <StackPane fx:id="paneRight" alignment="TOP_LEFT"/>
+            </items>
+        </SplitPane>
+    </children>
+    <padding>
+        <Insets bottom="10.0" left="10.0" right="10.0" top="10.0"/>
+    </padding>
+</VBox>
