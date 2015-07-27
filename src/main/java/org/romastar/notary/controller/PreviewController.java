@@ -21,6 +21,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
+import javafx.scene.web.WebEngine;
 import javafx.scene.web.WebView;
 import javafx.util.Callback;
 import org.controlsfx.dialog.Dialogs;
@@ -199,8 +200,8 @@ public class PreviewController extends BorderPane implements IChildController {
                 if (printerJob != null) {
                     boolean result = printerJob.showPrintDialog(webView.getScene().getWindow());
                     if (result) {
-                        PageLayout pageLayout = printer.createPageLayout(Paper.A4, PageOrientation.PORTRAIT, 3, 2, 50, 5);
-                        result = printerJob.printPage(pageLayout, webView);
+                        WebEngine webEngine = webView.getEngine();
+                        webEngine.print(printerJob);
                         if (result) {
                             printerJob.endJob();
                         }
