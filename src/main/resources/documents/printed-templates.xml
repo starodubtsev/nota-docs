@@ -1,176 +1,180 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<printed-templates>
-    <printed-template>
-        <uid>b1e918d7-3e80-4d36-a2dd-6e0b37501fa4</uid>
-        <name>Second template</name>
-        <title>Second template</title>
-        <prompt></prompt>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
-                    <name>First</name>
-                    <description>with comments</description>
-                </document>
-                <selected>true</selected>
-            </document-template>
-            <additional-info></additional-info>
-            <document-full-info>First (with comments)</document-full-info>
-        </printed-document-template>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
-                    <name>Second without comments</name>
-                    <description></description>
-                </document>
-                <selected>true</selected>
-            </document-template>
-            <additional-info></additional-info>
-            <document-full-info>Second without comments</document-full-info>
-        </printed-document-template>
-    </printed-template>
-    <printed-template>
-        <uid>c505aa50-0a4c-4990-bd3e-ef83d2853a28</uid>
-        <name>Second template 2</name>
-        <title>Second template</title>
-        <prompt>Я продолжаю рассказ об maven – инструменте, с помощью которого мы можем организовать унифицированное, не
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><printed-templates><printed-template><uid>b1e918d7-3e80-4d36-a2dd-6e0b37501fa4</uid><name>Second template</name><title>Second template</title><prompt></prompt><printed-document-template><document-template><document><uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid><name>First</name><description>with comments</description></document><selected>true</selected></document-template><additional-info></additional-info><document-full-info>First (with comments)</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid><name>Second without comments</name><description></description></document><selected>true</selected></document-template><additional-info></additional-info><document-full-info>Second without comments</document-full-info></printed-document-template></printed-template><printed-template><uid>c505aa50-0a4c-4990-bd3e-ef83d2853a28</uid><name>Second template 2</name><title>Second template</title><prompt>Я продолжаю рассказ об maven – инструменте, с помощью которого мы можем организовать унифицированное, не
             зависящее от конкретной среды разработки (IDE) представление проекта java. В прошлых двух статьях я
             пробежался по основным “вкусностям” maven: управление зависимостями проекта, способности maven загружать из
             internet и сохранять в локальном репозитории артефакты.
-        </prompt>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
-                    <name>First</name>
-                    <description>with comments</description>
-                </document>
-                <selected>true</selected>
-            </document-template>
-            <additional-info>Я продолжаю рассказ об maven – инструменте, с помощью которого мы можем организовать
+        </prompt><printed-document-template><document-template><document><uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid><name>First</name><description>with comments</description></document><selected>true</selected></document-template><additional-info>Я продолжаю рассказ об maven – инструменте, с помощью которого мы можем организовать
                 унифицированное, не зависящее от конкретной среды разработки (IDE) представление проекта java. В прошлых
                 двух статьях я пробежался по основным “вкусностям” maven: управление зависимостями проекта, способности
                 maven загружать из internet и сохранять в локальном репозитории артефакты.
-            </additional-info>
-            <document-full-info>First (with comments)</document-full-info>
-        </printed-document-template>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
-                    <name>Second without comments</name>
-                    <description></description>
-                </document>
-                <selected>true</selected>
-            </document-template>
-            <additional-info>Я продолжаю рассказ об maven – инструменте, с помощью которого мы можем организовать
+            </additional-info><document-full-info>First (with comments)</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid><name>Second without comments</name><description></description></document><selected>true</selected></document-template><additional-info>Я продолжаю рассказ об maven – инструменте, с помощью которого мы можем организовать
                 унифицированное, не зависящее от конкретной среды разработки (IDE) представление проекта java. В прошлых
                 двух статьях я пробежался по основным “вкусностям” maven: управление зависимостями проекта, способности
                 maven загружать из internet и сохранять в локальном репозитории артефакты.
-            </additional-info>
-            <document-full-info>Second without comments</document-full-info>
-        </printed-document-template>
-    </printed-template>
-    <printed-template>
-        <uid>0e0d28a6-b20c-425e-a2ae-b40fd61c0b51</uid>
-        <name>First template 2</name>
-        <title>First template</title>
-        <prompt>The problem may be that you're using Mac OS X 10.6.7, but the download in the link is for Mac OS X 10.5.
+            </additional-info><document-full-info>Second without comments</document-full-info></printed-document-template></printed-template><printed-template><uid>0e0d28a6-b20c-425e-a2ae-b40fd61c0b51</uid><name>First template 2</name><title>First template</title><prompt>The problem may be that you're using Mac OS X 10.6.7, but the download in the link is for Mac OS X 10.5.
             I couldn't find a specific JVM upgdate for Mac OS X 10.6.*, so you may have to download a combo updater for
             10.6 (as @Stefan mentions) and use Pacifist to extract the JVM updater. Unfortunately, I don't know which
             10.6.* release will have the version you're seeking. You might want to sign up for the java-dev mailing list
             at Apple Mailing Lists and ask there.
-        </prompt>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
-                    <name>First</name>
-                    <description>with comments</description>
-                </document>
-                <selected>true</selected>
-            </document-template>
-            <additional-info>I didn't see any for Mac OS X 10.6. For that, you would probably have to download the
+        </prompt><printed-document-template><document-template><document><uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid><name>First</name><description>with comments</description></document><selected>true</selected></document-template><additional-info>I didn't see any for Mac OS X 10.6. For that, you would probably have to download the
                 updaters for each 10.6 release, and extract the JDK installer from the updater (using something like
                 Pacifist
 
                 Oh, and if you haven't already, try running /Applications/Utilities/Java Preferences.app, which lets you
                 change the default Java on your machine amongst the ones you have installed.
-            </additional-info>
-            <document-full-info>First (with comments)</document-full-info>
-        </printed-document-template>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
-                    <name>Second without comments</name>
-                    <description></description>
-                </document>
-                <selected>false</selected>
-            </document-template>
-            <additional-info></additional-info>
-            <document-full-info>Second without comments</document-full-info>
-        </printed-document-template>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid>
-                    <name>Third</name>
-                    <description>Third with comments</description>
-                </document>
-                <selected>true</selected>
-            </document-template>
-            <additional-info>I didn't see any for Mac OS X 10.6. For that, you would probably have to download the
+            </additional-info><document-full-info>First (with comments)</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid><name>Second without comments</name><description></description></document><selected>false</selected></document-template><additional-info></additional-info><document-full-info>Second without comments</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid><name>Third</name><description>Third with comments</description></document><selected>true</selected></document-template><additional-info>I didn't see any for Mac OS X 10.6. For that, you would probably have to download the
                 updaters for each 10.6 release, and extract the JDK installer from the updater (using something like
                 Pacifist
 
                 Oh, and if you haven't already, try running /Applications/Utilities/Java Preferences.app, which lets you
                 change the default Java on your machine amongst the ones you have installed.
-            </additional-info>
-            <document-full-info>Third (Third with comments)</document-full-info>
-        </printed-document-template>
-    </printed-template>
-    <printed-template>
-        <uid>521649c5-a2fc-4ed5-84ad-ac66ebfb791e</uid>
-        <name>Second template 3</name>
-        <title>Second template</title>
-        <prompt></prompt>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
-                    <name>First</name>
-                    <description>with comments</description>
-                </document>
-                <selected>true</selected>
-            </document-template>
-            <additional-info></additional-info>
-            <document-full-info>First (with comments)</document-full-info>
-        </printed-document-template>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
-                    <name>Second without comments</name>
-                    <description></description>
-                </document>
-                <selected>true</selected>
-            </document-template>
-            <additional-info></additional-info>
-            <document-full-info>Second without comments</document-full-info>
-        </printed-document-template>
-        <printed-document-template>
-            <document-template>
-                <document>
-                    <uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid>
-                    <name>Third</name>
-                    <description>Third with comments</description>
-                </document>
-                <selected>false</selected>
-            </document-template>
-            <additional-info></additional-info>
-            <document-full-info>Third (Third with comments)</document-full-info>
-        </printed-document-template>
-    </printed-template>
-</printed-templates>
+            </additional-info><document-full-info>Third (Third with comments)</document-full-info></printed-document-template></printed-template><printed-template><uid>521649c5-a2fc-4ed5-84ad-ac66ebfb791e</uid><name>Second template 3</name><title>Second template</title><prompt></prompt><printed-document-template><document-template><document><uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid><name>First</name><description>with comments</description></document><selected>true</selected></document-template><additional-info></additional-info><document-full-info>First (with comments)</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid><name>Second without comments</name><description></description></document><selected>true</selected></document-template><additional-info></additional-info><document-full-info>Second without comments</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid><name>Third</name><description>Third with comments</description></document><selected>false</selected></document-template><additional-info></additional-info><document-full-info>Third (Third with comments)</document-full-info></printed-document-template></printed-template><printed-template><uid>8633652b-fa79-48bd-91be-ad4abeccaa83</uid><name>Третий шаблон</name><title>Третий шаблон</title><prompt>Распределенные системы контроля версий (DVCS) постепенно замещают собой централизованные. Если вы еще не используете одну из них — самое время попробовать. 
+
+В статье я постараюсь показать, как можно быстро начать экспериментировать с git, используя сайт github.com.
+
+В статье не будут рассмотрены различия между разными DVCS. Также не будет детально рассматриваться работа с git, по этой теме есть множество хороших источников, которые я приведу в конце статьи.
+
+Итак, сайт github.com позиционируется как веб-сервис хостинга проектов с использованием системы контроля версий git, а также как социальная сеть для разработчиков. Пользователи могут создавать неограниченное число репозиториев, для каждого из которых предоставляется wiki, система issue tracking-а, есть возможность проводить code review и многое другое. GitHub на данный момент является самым популярным сервисом такого рода, обогнав Sourceforge и Google Code.</prompt><printed-document-template><document-template><document><uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid><name>First</name><description>with comments</description></document><selected>true</selected></document-template><additional-info>Распределенные системы контроля версий (DVCS) постепенно замещают собой централизованные. Если вы еще не используете одну из них — самое время попробовать. 
+
+В статье я постараюсь показать, как можно быстро начать экспериментировать с git, используя сайт github.com.
+
+В статье не будут рассмотрены различия между разными DVCS. Также не будет детально рассматриваться работа с git, по этой теме есть множество хороших источников, которые я приведу в конце статьи.
+
+Итак, сайт github.com позиционируется как веб-сервис хостинга проектов с использованием системы контроля версий git, а также как социальная сеть для разработчиков. Пользователи могут создавать неограниченное число репозиториев, для каждого из которых предоставляется wiki, система issue tracking-а, есть возможность проводить code review и многое другое. GitHub на данный момент является самым популярным сервисом такого рода, обогнав Sourceforge и Google Code.</additional-info><document-full-info>First (with comments)</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid><name>Second without comments</name><description></description></document><selected>true</selected></document-template><additional-info>Распределенные системы контроля версий (DVCS) постепенно замещают собой централизованные. Если вы еще не используете одну из них — самое время попробовать. 
+
+В статье я постараюсь показать, как можно быстро начать экспериментировать с git, используя сайт github.com.
+
+В статье не будут рассмотрены различия между разными DVCS. Также не будет детально рассматриваться работа с git, по этой теме есть множество хороших источников, которые я приведу в конце статьи.
+
+Итак, сайт github.com позиционируется как веб-сервис хостинга проектов с использованием системы контроля версий git, а также как социальная сеть для разработчиков. Пользователи могут создавать неограниченное число репозиториев, для каждого из которых предоставляется wiki, система issue tracking-а, есть возможность проводить code review и многое другое. GitHub на данный момент является самым популярным сервисом такого рода, обогнав Sourceforge и Google Code.</additional-info><document-full-info>Second without comments</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid><name>Third</name><description>Third with comments</description></document><selected>true</selected></document-template><additional-info>Распределенные системы контроля версий (DVCS) постепенно замещают собой централизованные. Если вы еще не используете одну из них — самое время попробовать. 
+
+В статье я постараюсь показать, как можно быстро начать экспериментировать с git, используя сайт github.com.
+
+В статье не будут рассмотрены различия между разными DVCS. Также не будет детально рассматриваться работа с git, по этой теме есть множество хороших источников, которые я приведу в конце статьи.
+
+Итак, сайт github.com позиционируется как веб-сервис хостинга проектов с использованием системы контроля версий git, а также как социальная сеть для разработчиков. Пользователи могут создавать неограниченное число репозиториев, для каждого из которых предоставляется wiki, система issue tracking-а, есть возможность проводить code review и многое другое. GitHub на данный момент является самым популярным сервисом такого рода, обогнав Sourceforge и Google Code.</additional-info><document-full-info>Third (Third with comments)</document-full-info></printed-document-template></printed-template><printed-template><uid>2e3855cc-0f62-43a2-8785-aa954c441fbe</uid><name>ОГРОМНЫЙ ШАБЛОН</name><title>ОГРОМНЫЙ ШАБЛОН</title><prompt>Через малое время послышался шум с восточной стороны, распахнулись двери с восточного крыльца - прилетел Восточный ветер. Вслед за тем пахнуло теплом с полуденной стороны - и слетел в избу с полуденного крыльца ласковый Полуденный ветер. И в ту же минуту из тех дверей, что на закат солнца выходят, явился Западный ветер. Как вдруг загремело, зашумело кругом, изба заходила ходуном - и с хохотом да с присвистом ворвался в избу с полуночной стороны Полуночник-ветер.
+
+- Ох, и задал я сегодня страху судам на море! Наигрался, натешился, есть хочу!
+
+Старуха тем временем на стол накрыла, накормила, напоила сыновей и говорит:
+
+- Ну, кто из вас, сынки, недавно беду натворил?
+
+Позвала старика:
+
+- Ступай, говори, не бойся ничего! Старик спустился с печи и рассказал всё, как дело было. Присмирел Полуночник, голову опустил.
+
+- Видно, ты, Полуночник, виноват,- сказала мать,- тебе и ответ держать.
+
+- Ничего, мама,- Полуночник головой тряхнул,- всё дело поправится! А ты, гость дорогой, смел да напорист - эдаких я люблю. Коли не побоялся на меня управу искать да всю правду в лицо сказать, будь мне названым братом, а о потере не печалься.
+
+Достал из-за пазухи свёрток, подал старику:
+
+- Вот тебе скатерть-самобранка - всегда будешь сыт. Только скажи: “Попить, поесть!” - разверни скатерть - и ешь, пей, чего только душа пожелает. Только, чур, уговор: пойдёшь домой - на постоялый двор не заходи.
+
+Старик поблагодарил своего названого брата да мать четырех ветров за ласковый прием, за угощение да за подарок и отправился в обратный путь.
+
+Шёл, шёл, шёл и так крепко притомился, совсем из сил выбился, сам думает:
+
+“Придётся переночевать, сегодня домой всё равно не попасть. Чего это Полуночник не велел мне на постоялый двор заходить? Ведь не в поле мне ночевать! Хлеб свой - хоть у попа стой”.
+
+И зашёл на постоялый двор. Сел у стола, отдыхает, хозяин спрашивает:
+
+- Может, поужинать собрать? Заказывай!
+
+- Ничего мне покупного не надо, всё у меня своё есть.
+
+С теми словами достал из-за пазухи скатерть, развернул и говорит:
+
+- Попить, поесть!
+
+Батюшки-светы, откуда что взялось: наставились кушанья разные, меда душистые, закуски, заедки всякие - стол ломится! Пей, ешь - душа мера!
+
+Хозяин остолбенел, глядит во все глаза, слова вымолвить не может. Эдакого дива век не видал.</prompt><printed-document-template><document-template><document><uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid><name>First</name><description>with comments</description></document><selected>true</selected></document-template><additional-info>Specify what destination ref to update with what source object. The format of a &lt;refspec&gt; parameter is an optional plus +, followed by the source object &lt;src&gt;, followed by a colon :, followed by the destination ref &lt;dst&gt;.
+
+    The &lt;src&gt; is often the name of the branch you would want to push, but it can be any arbitrary "SHA-1 expression", such as master~4 or HEAD (see gitrevisions[7]).
+
+    The &lt;dst&gt; tells which ref on the remote side is updated with this push. Arbitrary expressions cannot be used here, an actual ref must be named. If git push [&lt;repository&gt;] without any &lt;refspec&gt; argument is set to update some ref at the destination with &lt;src&gt; with remote.&lt;repository&gt;.push configuration variable, :&lt;dst&gt; part can be omitted---such a push will update a ref that &lt;src&gt; normally updates without any &lt;refspec&gt; on the command line. Otherwise, missing :&lt;dst&gt; means to update the same ref as the &lt;src&gt;.
+
+    The object referenced by &lt;src&gt; is used to update the &lt;dst&gt; reference on the remote side. By default this is only allowed if &lt;dst&gt; is not a tag (annotated or lightweight), and then only if it can fast-forward &lt;dst&gt;. By having the optional leading +, you can tell Git to update the &lt;dst&gt; ref even if it is not allowed by default (e.g., it is not a fast-forward.) This does not attempt to merge &lt;src&gt; into &lt;dst&gt;. See EXAMPLES below for details.
+
+    tag &lt;tag&gt; means the same as refs/tags/&lt;tag&gt;:refs/tags/&lt;tag&gt;.
+
+    Pushing an empty &lt;src&gt; allows you to delete the &lt;dst&gt; ref from the remote repository.
+
+    The special refspec : (or +: to allow non-fast-forward updates) directs Git to push "matching" branches: for every branch that exists on the local side, the remote side is updated if a branch of the same name already exists on the remote side.</additional-info><document-full-info>First (with comments)</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid><name>Second without comments</name><description></description></document><selected>true</selected></document-template><additional-info>В поле Repository name - введите имя вашего проекта, я назову тестовый проект test:
+
+Также мы можем указать описание нашего проекта , заполнив поле Description - это поле необязательно, поэтому вы можете оставить его пустым. Я же укажу следующий текст:
+
+    test application for mzcoding.com 
+
+Далее необходимо выбрать тип репозитория. Открытый или закрытый. Помните ведение приватных репозиториев является платным, поэтому мы выбираем public.
+
+Также мы отметим галочкой пункт Initialize this repository with a README - Для инициализации репозитория и создания файла Readme.
+
+Также нам предлагают сгенерировать файл .gitignore - необходимый для игнорирования некоторых файлов и каталогов и файл лицензии. Не то не другого мы делать не будем, в итоге у меня получилось следующие.</additional-info><document-full-info>Second without comments</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid><name>Third</name><description>Third with comments</description></document><selected>true</selected></document-template><additional-info>- Там тебя, племянушка, будет березка в глаза стегать - ты ее ленточкой перевяжи; там тебе ворота будут скрипеть и хлопать - ты подлей им под пяточки маслица; там тебя собаки будут рвать - ты им хлебца брось; там тебе кот будет глаза драть - ты ему ветчины дай. Пошла девочка; вот идет, идет и пришла. Стоит хатка, а в ней сидит баба-яга костяная нога и ткет.
+
+- Здравствуй, тетушка!
+
+- Здравствуй, родимая!
+
+- Меня матушка послала попросить у тебя иголочку и ниточку - мне рубашку сшить.
+
+- Хорошо: садись покуда ткать.
+
+Вот девочка села за кросна, а баба-яга вышла и говорит своей работнице:
+
+- Ступай, истопи баню да вымой племянницу, да смотри, хорошенько; я хочу ею позавтракать.
+
+Девочка сидит ни жива ни мертва, вся перепуганная, и просит она работницу:
+
+- Родимая моя! Ты не столько дрова поджигай, сколько водой заливай, решетом воду носи, - и дала ей платочек.
+
+Баба-яга дожидается; подошла она к окну и спрашивает:
+
+- Ткешь ли, племянушка, ткешь ли, милая?
+
+- Тку, тетушка, тку, милая!</additional-info><document-full-info>Third (Third with comments)</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>5895c144-8cd2-497d-809c-bd5225fb0375</uid><name>Четвертый документ</name><description>Четвертый документ</description></document><selected>true</selected></document-template><additional-info>Баба-яга костяная нога поскорей села на ступу, толкачом погоняет, помелом след заметает и пустилась в погоню за девочкой. Вот девочка приклонила ухо к земле и слышит, что баба-яга гонится, и уж близко, взяла да и бросила полотенце; сделалась река, такая широкая-широкая! Баба-яга приехала к реке и от злости зубами заскрипела; воротилась домой, взяла своих быков и пригнала к реке; быки выпили всю реку. дочиста.
+
+Баба-яга пустилась опять в погоню. Девочка приклонила ухо к земле и слышит, что баба-яга близко, бросила гребешок; сделался лес, такой дремучий да страшный! Баба-яга стала его грызть, но сколько ни старалась - не могла прогрызть и воротилась назад.
+
+А дед уже приехал домой и спрашивает:
+
+- Где же моя дочка?
+
+- Она пошла к тетушке, - говорит мачеха. Немного погодя и девочка прибежала домой.
+
+- Где ты была? - спрашивает отец.
+
+- Ах, батюшка! - говорит она. - Так и так - меня матушка посылала к тетке попросить иголочку с ниточкой - мне рубашку сшить, а тетка, баба-яга, меня съесть хотела.
+
+- Как же ты ушла, дочка?
+
+- Так и так, - рассказывает девочка.
+
+Дед, как узнал все это, рассердился на жену и расстрелял ее; а сам с дочкою стал жить да поживать да добра наживать, и я там был, мед-пиво пил; по усам текло, в рот не попало.</additional-info><document-full-info>Четвертый документ (Четвертый документ)</document-full-info></printed-document-template><printed-document-template><document-template><document><uid>f9c340d8-1903-41f8-8aac-048d1d563590</uid><name>Пятый документ</name><description>Пятый документ</description></document><selected>true</selected></document-template><additional-info>Посеяли. Уродилась пшеница на славу. Старик со старухой не нарадуются, ходят каждый день, пшеницей любуются: пшеница стеной стоит, колос колоса тяжелее. Соседи завидуют:
+
+- Эдакого урожая век не видано!
+
+Приспело время хлеб убирать. Старик серпы наточил:
+
+- Завтра, старуха, пойдём пшеницу жать!
+
+В ту пору поднялся сильный ветер, налетела чёрная туча и выпал на старикову делянку крупный град. Тем градом выбило всю пшеницу, ни одного колоска не осталось.
+
+Закручинился старик, голову повесил, а старуха ругается:
+
+- Всю жизнь я с тобой, с бесталанным, горе горевала. Ни в чём тебе удачи нет. В кон-то веки разжились семенами да вырастили пшеницу - и тут лихо пристигло, стряслась беда. На иных полосах колоса не попортило, а у нас и зерна не осталось.
+
+Утешает старик:
+
+- Не плачь, старуха, не горюй, слезами да руганью убытков не воротишь. Тучу ветер пригнал, станем управу искать - пусть ветер и убытки возместит.
+
+Ещё пуще старуха заругалась:
+
+- Совсем ума лишился, мелет языком, чего слыхом не слыхано. Ищи-ка теперь ветра в поле! А старик своё твердит:
+
+- Пойду с ветра спрашивать: ветер виноват - ветер и в ответе.
+
+Обулся, оделся, взял в руки батожок и тронулся в путь-дорогу.
+
+Шёл он долго ли, коротко ли, близко ли, далёко ли и добрался до высокой горы. Возле горы стоит большая изба. В избе четыре крыльца: одно выходит на восход солнца, другое - на полдень, третье - на запад, а четвёртое крыльцо - на полночь.</additional-info><document-full-info>Пятый документ (Пятый документ)</document-full-info></printed-document-template></printed-template></printed-templates>
