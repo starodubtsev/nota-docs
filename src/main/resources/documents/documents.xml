@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<documents>
-    <documents>
-        <uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid>
-        <name>First</name>
-        <description>with comments</description>
-    </documents>
-    <documents>
-        <uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid>
-        <name>Second without comments</name>
-        <description></description>
-    </documents>
-    <documents>
-        <uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid>
-        <name>Third</name>
-        <description>Third with comments</description>
-    </documents>
-</documents>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><documents><documents><uid>57290811-a1f4-4c5c-b122-9c1b8ccda1b1</uid><name>First</name><description>with comments</description></documents><documents><uid>cf427886-354b-4bc9-ae82-198a48ae5a24</uid><name>Second without comments</name><description></description></documents><documents><uid>59dc9298-90a1-4035-88a8-3726cfb4064c</uid><name>Third</name><description>Third with comments</description></documents><documents><uid>5895c144-8cd2-497d-809c-bd5225fb0375</uid><name>Четвертый документ</name><description>Четвертый документ</description></documents><documents><uid>f9c340d8-1903-41f8-8aac-048d1d563590</uid><name>Пятый документ</name><description>Пятый документ</description></documents></documents>
