@@ -2,4 +2,3 @@ First line in log.
 Second line in log.
 third line in log.
 Forth line in lig.
-Fifth line in log.
